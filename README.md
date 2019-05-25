@@ -10,7 +10,8 @@ The tentative methodology currently explored is as follows-
   <li>Run multiple ensembles of MH and wuote statistics on the best values of the parameters found.</li>
 </ol>
 <br><br>
-## Code Description
+
+<h2> Code Description </h2>
 <ul>
   <li><i>SampleFunction</i> - approach towards finding trends in the function and parameters that define it</li>
   <li><i>DataCleaner</i> - Filter relevant values to be used from a full data dump, drastically reducing the source data size</li>
